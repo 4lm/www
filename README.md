@@ -1,2 +1,2 @@
 # www
-Learning HTML, CSS and Javascript
+Learning HTML, CSS and JavaScript
