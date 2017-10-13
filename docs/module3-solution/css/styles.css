@@ -13,6 +13,9 @@
 .navbar-brand {
     font-size: 26px;
 }
+.navbar-brand > a {
+    text-decoration: none;
+}
 h1 {
     font-size: 24px;
 }
